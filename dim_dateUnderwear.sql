@@ -1,0 +1,1 @@
+SELECT * FROM underweardata.dim_date;
